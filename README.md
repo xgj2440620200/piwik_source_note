@@ -120,3 +120,6 @@ What makes Piwik unique from the competition:
     Custom Variables, Email Reports, Custom Segment Editor, Geo Location, Real time maps, and more!
 
 Documentation and more info on https://piwik.org
+=======
+# piwik_source_note
+Piwik 3.x的源码注释
